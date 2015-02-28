@@ -1,0 +1,2 @@
+# cleanic
+test clean
